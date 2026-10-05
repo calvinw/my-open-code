@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="120" viewBox="0 0 360 120">
+  <rect width="360" height="120" rx="16" fill="#f8fafc"/>
+  <!-- Circle -->
+  <circle cx="60" cy="60" r="32" fill="#3b82f6"/>
+  <!-- Square -->
+  <rect x="124" y="28" width="64" height="64" rx="12" fill="#22c55e"/>
+  <!-- Triangle -->
+  <polygon points="248,28 284,92 212,92" fill="#f59e0b"/>
+  <!-- Star -->
+  <polygon points="320,28 329,49 351,49 333,62 340,83 320,70 300,83 307,62 289,49 311,49" fill="#ef4444"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="120" viewBox="0 0 360 120">
+  <rect width="360" height="120" rx="16" fill="#111827"/>
+  <!-- Heart -->
+  <path d="M60 92 C30 68 28 40 48 36 C58 34 66 42 68 48 C70 42 78 34 88 36 C108 40 106 68 76 92 L68 98 L60 92 Z" fill="#ec4899"/>
+  <!-- Checkmark circle -->
+  <circle cx="156" cy="60" r="32" fill="none" stroke="#22c55e" stroke-width="8"/>
+  <polyline points="141,60 152,71 172,48" fill="none" stroke="#22c55e" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Arrow -->
+  <rect x="212" y="52" width="48" height="16" rx="8" fill="#60a5fa"/>
+  <polygon points="252,32 292,60 252,88" fill="#60a5fa"/>
+  <!-- Diamond -->
+  <polygon points="326,28 358,60 326,92 294,60" fill="#a78bfa"/>
+</svg>

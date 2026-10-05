@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="24" fill="#e0e7ff"/>
+  <!-- Ears -->
+  <polygon points="45,90 45,35 85,65" fill="#6b7280"/>
+  <polygon points="155,90 155,35 115,65" fill="#6b7280"/>
+  <polygon points="52,78 52,45 78,63" fill="#f9a8d4"/>
+  <polygon points="148,78 148,45 122,63" fill="#f9a8d4"/>
+  <!-- Head -->
+  <ellipse cx="100" cy="115" rx="58" ry="52" fill="#9ca3af"/>
+  <!-- Stripes -->
+  <rect x="88" y="66" width="8" height="20" rx="4" fill="#4b5563"/>
+  <rect x="104" y="66" width="8" height="20" rx="4" fill="#4b5563"/>
+  <!-- Eyes -->
+  <ellipse cx="76" cy="110" rx="11" ry="14" fill="#1f2937"/>
+  <ellipse cx="124" cy="110" rx="11" ry="14" fill="#1f2937"/>
+  <ellipse cx="76" cy="108" rx="4" ry="6" fill="#ef4444"/>
+  <ellipse cx="124" cy="108" rx="4" ry="6" fill="#ef4444"/>
+  <!-- Nose + mouth -->
+  <polygon points="94,130 106,130 100,137" fill="#f472b6"/>
+  <path d="M100 137 Q100 143 92 144 M100 137 Q100 143 108 144" stroke="#1f2937" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Whiskers -->
+  <g stroke="#4b5563" stroke-width="2" stroke-linecap="round">
+    <line x1="45" y1="125" x2="70" y2="130"/>
+    <line x1="45" y1="140" x2="70" y2="136"/>
+    <line x1="155" y1="125" x2="130" y2="130"/>
+    <line x1="155" y1="140" x2="130" y2="136"/>
+  </g>
+</svg>
